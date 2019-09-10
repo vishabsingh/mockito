@@ -40,7 +40,6 @@ public class CustomerServiceMockMethodsWithMockitoTest {
     public void testAddCustomer_ReturnsNewCustomer(){
         Customer customer = new Customer(5l,"TESTUSER",95903192);
         when(customerDao.save(customer)).thenReturn(true);
-        //when(customerDao.save(any(Customer.class))).thenReturn(customer);
         assertThat(customerSevice.addCustomer(customer) , is(notNullValue()));
     }
 
