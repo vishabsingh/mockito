@@ -5,6 +5,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../../pennymac/pnmac-bdl-finx-devops/tools/config-migration/target/classes/META-INF/maven/com.tavant.finxbroker/config-migration/pom.xml" />
+        <option value="$PROJECT_DIR$/../../pennymac/pnmac-bdl-finx-devops/tools/config-migration/target/classes/META-INF/maven/com.tavant.finxbroker/config-migration/pom.properties" />
       </list>
     </option>
   </component>

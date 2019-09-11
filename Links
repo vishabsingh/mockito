@@ -3,3 +3,24 @@ https://dzone.com/articles/a-guide-to-mocking-with-mockito
 https://dzone.com/articles/unit-testing-using-mockito-and-powermock
 
 https://medium.com/@kamath.praveen1992/powermockito-in-springboot-574857b19f60
+
+
+BEST JAVA 8
+==========================================================================================
+https://dzone.com/articles/functional-programming-patterns-with-java-8
+https://dzone.com/articles/lambdas-and-clean-code?fromrel=true
+https://github.com/victorrentea/functional-patterns-article
+https://dzone.com/articles/an-introduction-to-functional-programming-in-java?fromrel=true
+==========================================================================================
+https://github.com/victorrentea/training/tree/master/concurrency-patterns/src/main/java/victor/training/concurrency
+
+https://www.javabrahman.com/java-8/java-8-java-util-function-function-tutorial-with-examples/
+
+
+always extract complex lambdas into functions with an expressive name that you can then reference using four-dots ( :: ) from:
+
+the same class ( this:: );
+another class ( mapper:: );
+some static helper method ( SomeClass:: );
+the Stream item type ( Item:: );
+even some constructor ( UserDto::new ), if it’s simple enough;
