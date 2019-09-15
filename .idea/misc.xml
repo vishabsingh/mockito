@@ -5,12 +5,12 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/../../pennymac/pnmac-bdl-finx-devops/tools/config-migration/target/classes/META-INF/maven/com.tavant.finxbroker/config-migration/pom.xml" />
-        <option value="$PROJECT_DIR$/../../pennymac/pnmac-bdl-finx-devops/tools/config-migration/target/classes/META-INF/maven/com.tavant.finxbroker/config-migration/pom.properties" />
+        <option value="C:/pennymac/pnmac-bdl-finx-devops/tools/config-migration/target/classes/META-INF/maven/com.tavant.finxbroker/config-migration/pom.xml" />
+        <option value="C:/pennymac/pnmac-bdl-finx-devops/tools/config-migration/target/classes/META-INF/maven/com.tavant.finxbroker/config-migration/pom.properties" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="jdk1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

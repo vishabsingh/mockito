@@ -24,3 +24,6 @@ another class ( mapper:: );
 some static helper method ( SomeClass:: );
 the Stream item type ( Item:: );
 even some constructor ( UserDto::new ), if it’s simple enough;
+
+### BEST LAMBDA DZONE
+https://dzone.com/articles/j%CE%BBv%CE%BB-8-a-comprehensive-look#lambda_expressions
