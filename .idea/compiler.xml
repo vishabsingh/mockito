@@ -6,13 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="config-migration (2) (com.tavant.finxbroker)" />
         <module name="mockito" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="config-migration (1)" target="1.5" />
       <module name="config-migration (2)" target="1.5" />
+      <module name="config-migration (2) (com.tavant.finxbroker)" target="1.8" />
       <module name="config-migration (3)" target="1.8" />
       <module name="maven-archiver" target="1.5" />
     </bytecodeTargetLevel>

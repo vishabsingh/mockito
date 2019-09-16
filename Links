@@ -13,8 +13,8 @@ https://github.com/victorrentea/functional-patterns-article
 https://dzone.com/articles/an-introduction-to-functional-programming-in-java?fromrel=true
 ==========================================================================================
 https://github.com/victorrentea/training/tree/master/concurrency-patterns/src/main/java/victor/training/concurrency
-
 https://www.javabrahman.com/java-8/java-8-java-util-function-function-tutorial-with-examples/
+http://ocpj8.javastudyguide.com/ch01.html
 
 
 always extract complex lambdas into functions with an expressive name that you can then reference using four-dots ( :: ) from:
