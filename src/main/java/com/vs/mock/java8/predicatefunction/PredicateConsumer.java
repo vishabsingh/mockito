@@ -1,4 +1,4 @@
-package com.vs.mock.java8;
+package com.vs.mock.java8.predicatefunction;
 
 import java.util.function.Consumer;
 import java.util.function.Predicate;

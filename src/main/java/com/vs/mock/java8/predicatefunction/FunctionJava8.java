@@ -1,4 +1,6 @@
-package com.vs.mock.java8;
+package com.vs.mock.java8.predicatefunction;
+
+import com.vs.mock.java8.Customer;
 
 import java.util.ArrayList;
 import java.util.Arrays;

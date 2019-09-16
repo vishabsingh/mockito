@@ -1,4 +1,4 @@
-package com.vs.mock.java8;
+package com.vs.mock.java8.methodref;
 
 import java.util.Arrays;
 import java.util.List;
