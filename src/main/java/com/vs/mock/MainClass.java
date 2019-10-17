@@ -1,4 +1,4 @@
-package com.vs.mock.main;
+package com.vs.mock;
 
 import com.vs.mock.dao.DataBaseDao;
 import com.vs.mock.dao.NetworkDao;

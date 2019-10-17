@@ -1,8 +1,9 @@
 package com.vs.mock.test.mockito;
 
+import com.vs.mock.MainClass;
 import com.vs.mock.dao.DataBaseDao;
 import com.vs.mock.dao.NetworkDao;
-import com.vs.mock.main.MainClass;
+
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
